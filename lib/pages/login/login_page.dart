@@ -50,7 +50,7 @@ class _LoginPageState extends State<LoginPage> {
                           ],
                         ),
 
-                        Text(input,style: TextStyle(fontSize: 20.0),),
+                       // Text(input,style: TextStyle(fontSize: 20.0),),
                       ],
                     )),
               ),
